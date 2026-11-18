@@ -31,7 +31,7 @@ Cross-validation RMSE on the train set (5 folds):
 - Lasso: 0.721 (+/- 0.011)
 
 Alphas chosen by cross-validation:
-- Ridge: [ALPHA RIDGE]
+- Ridge:  1.0000e-05
 - Lasso: 0.0007
 
 Test set (Ridge, used only once):
